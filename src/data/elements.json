@@ -79,6 +79,18 @@
       "7Li": {
         "binding_energy": 39245093,
         "ratio": 0.0759
+      },
+      "8Li": {
+        "ratio": 0,
+        "binding_energy": 39245093,
+        "decay": {
+          "half_life": 0.838,
+          "decay_types": {
+            "beta-": {
+              "ratio": 1
+            }
+          }
+        }
       }
     },
     "ionization_energy": [
